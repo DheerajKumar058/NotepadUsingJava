@@ -39,5 +39,5 @@ To use the Notepad Clone, follow these steps:
 
 ## Author
 
-This Notepad Clone was created by Dheeraj kumar .
+This Notepad Clone was created by Dheeraj .
 
